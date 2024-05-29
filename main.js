@@ -1,4 +1,5 @@
 let fecha = new Date("08/09/2024");
+<<<<<<< HEAD
 let msFecha = fecha.getTime();
 
 let parrafoDias = document.querySelector ("#dias");
@@ -38,3 +39,6 @@ let Intervalo = setInterval(() => {
     }
     
 }, 1000)
+=======
+let msFecha = fecha.getTime();                
+>>>>>>> 027f1d4e488167bf8c694eed8744affb6bb25ac6
